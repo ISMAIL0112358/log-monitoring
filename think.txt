@@ -1,0 +1,12 @@
+
+
+dumping logs (via api)
+    adding log with timestamp will be good idea
+
+
+subscribe to webhook
+whenever new logs comes in the post logs api webhook should send data to all the subscribed participant
+
+
+if new subscriber then initially send last 10 lines
+and then keep on sending new data to mimic tail -f
