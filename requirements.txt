@@ -26,3 +26,4 @@ typing_extensions==4.12.2
 urllib3==2.2.3
 zope.interface==7.2
 django-channels==0.7.0
+channels_redis

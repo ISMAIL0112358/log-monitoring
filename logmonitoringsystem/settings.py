@@ -42,12 +42,19 @@ INSTALLED_APPS = [
 ]
 
 
-CHANNEL_LAYERS = {
-    "default": {
-        "BACKEND": "channels_redis.core.RedisChannelLayer",
-        "CONFIG": {"hosts": ["redis://127.0.0.1:6379"]},
+if DEBUG:
+    CHANNEL_LAYERS = {
+        "default": {
+            "BACKEND": "channels.layers.InMemoryChannelLayer"
+        }
     }
-}
+else:
+    CHANNEL_LAYERS = {
+        "default": {
+            "BACKEND": "channels_redis.core.RedisChannelLayer",
+            "CONFIG": {"hosts": ["redis://127.0.0.1:6379"]},
+        }
+    }
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -77,6 +84,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'logmonitoringsystem.wsgi.application'
+ASGI_APPLICATION = 'logmonitoringsystem.asgi.application'
 
 
 # Database
