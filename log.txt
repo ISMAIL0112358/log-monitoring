@@ -1,0 +1,142 @@
+2025-02-01 11:02:54.608041 - test log add2025-02-01 11:03:07.035462 - test log add2025-02-01 11:03:22.770910 - test log add 
+2025-02-01 11:03:47.002342 - test log add on new line 
+
+2025-02-01 11:25:10.992733 - test log add on new line 
+
+2025-02-01 11:34:55.697876 - test log add on new line 
+
+2025-02-01 11:35:01.044116 - test log add on new line djangop 
+
+2025-02-01 12:26:20.690745 - test log add on new line djangop 
+
+2025-02-01 12:28:21.471873 - test log add on new line djangop 
+
+2025-02-01 12:28:39.577053 - test log add on new line djangop 
+
+2025-02-01 12:30:37.485628 - test log add on new line djangop 
+
+2025-02-01 12:30:50.785110 - test log add on new line djangop 
+
+2025-02-01 12:31:52.988425 - test log add on new line djangop 
+
+2025-02-01 12:31:58.478181 - test log add on new line djangop 
+
+2025-02-01 12:32:05.046867 - test log add on new line djangop 
+
+2025-02-01 12:33:11.360697 - test log add on new line djangop 
+
+2025-02-01 12:34:37.876401 - test log add on new line djangop 
+
+2025-02-01 12:35:50.899514 - test log add on new line djangop 
+
+2025-02-01 12:35:58.215895 - test log add on new line djangop 
+
+2025-02-01 12:37:41.882435 - test log add on new line djangop 
+
+2025-02-01 12:39:15.675539 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:42:07.482606 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:42:20.648751 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:44:11.206817 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:44:25.780641 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:44:56.478616 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:45:09.267038 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:47:14.112765 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:47:22.697240 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:47:27.687036 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:49:17.562453 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:50:03.479228 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:50:09.327849 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:52:23.016116 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:53:32.531719 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:53:43.987283 - test log add on new line djangoasfdasdfp 
+
+2025-02-01 12:53:46.525509 - test log add on new line asdfa 
+
+2025-02-01 12:54:12.883417 - test log add on new line asdfa 
+
+2025-02-01 12:54:40.179980 - test log add on new line asdfa 
+
+2025-02-01 12:54:43.359668 - test log add on new line asdfa 
+
+2025-02-01 12:54:49.857734 - test log add on new line asdfa 
+
+2025-02-01 12:55:51.886342 - test log add on new line asdfa 
+
+2025-02-01 12:55:59.851929 - test log add on new line asdfa 
+
+2025-02-01 12:56:36.674158 - test log add on new line asdfa 
+
+2025-02-01 12:56:42.648028 - test log add on new line asdfa 
+
+2025-02-01 12:56:55.135709 - test log add on new line asdfa 
+
+2025-02-01 12:57:01.734804 - test log add on new line asdfa 
+
+2025-02-01 12:57:11.581253 - test log add on new line asdfa 
+
+2025-02-01 12:57:15.470707 - test log add on new line asdfa 
+
+2025-02-01 12:58:52.588660 - test log add on new line asdfa 
+
+2025-02-01 12:59:08.129701 - test log add on new line asdfa 
+
+2025-02-01 12:59:16.706646 - test log add on new line asdfa 
+
+2025-02-01 13:00:19.200352 - test log add on new line asdfa 
+
+2025-02-01 13:00:27.689293 - test log add on new line asdfa 
+
+2025-02-01 13:00:43.785794 - test log add on new line asdfa 
+
+2025-02-01 13:01:26.114692 - test log add on new line asdfa 
+
+2025-02-01 13:01:32.095720 - test log add on new line asdfa 
+
+2025-02-01 13:01:36.591461 - test log add on new line asdfa 
+
+2025-02-01 13:02:29.324651 - test log add on new line asdfa 
+
+2025-02-01 13:02:37.215345 - test log add on new line asdfa 
+
+2025-02-01 13:26:28.628751 - test log add on new line asdfa 
+
+2025-02-01 13:29:02.465499 - test log add on new line asdfa 
+
+2025-02-01 13:29:22.856467 - test log add on new line asdfaasfasdf 
+
+2025-02-01 13:30:42.500190 - test log add on new line asdfaasfasdf 
+
+2025-02-01 13:38:32.393755 - test log add on new line asdfaasfasdf 
+
+2025-02-01 13:40:16.511527 - qwertyuiosdfghjklzxcvbnmasdf 
+
+2025-12-11 11:35:37.834886 - This is a test log message from Playwright.
+2025-12-11 19:42:25,847 - qwertyuiosdfghjklzxcvbnmasdf 12212312312
+2025-12-11 19:42:30,896 - qwertyuiosdfghjklzxcvbnmasdf 12212312312
+2025-12-11 19:42:45,421 - qwertyuiosdfghjklzxcvbnmasdf 12212312312
+2025-12-11 19:42:46,532 - qwertyuiosdfghjklzxcvbnmasdf 12212312312
+2025-12-11 19:43:16,014 - qwertyuiosdfghjklzxcvbnmasdf 12212312312
+2025-12-11 19:43:24,006 - 123123123 12212312312
+2025-12-11 19:45:57,880 - 123123123 12212312312
+2025-12-11 19:54:03,613 - SSE Verification Log 1
+2025-12-11 19:54:40,862 - 123123123 12212312312
+2025-12-11 19:54:54,886 - TESTING LOGS
+2025-12-11 19:55:38,286 - TESTING LOGS
+2025-12-11 19:55:49,838 - TESTING LOGS 1
+2025-12-11 19:56:28,432 - TESTING LOGS 1
+2025-12-11 19:56:34,531 - TESTING LOGS 2
