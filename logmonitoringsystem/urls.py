@@ -16,12 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from .views import addlogs, getlogs, logs_view
+from .views import addlogs, getlogs, logs_view, sse_logs
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('add-logs/', addlogs.as_view(), name='add-logs'),
     path('get-logs/', getlogs.as_view(), name='get-logs'),
-    path("logs/", logs_view, name="logs-page"),  # This will serve the HTML at /logs/
-
+    path("logs/", logs_view, name="logs-page"),
+    path("sse-logs/", sse_logs, name="sse-logs"),
 ]

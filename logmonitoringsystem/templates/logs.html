@@ -39,24 +39,21 @@
                 logsContainer.scrollTop = logsContainer.scrollHeight; // Auto-scroll to bottom
             }
 
-            // Setup WebSocket connection
-            const socket = new WebSocket("ws://localhost:8000/ws/get-logs/");
+            // Setup SSE connection
+            const eventSource = new EventSource("/sse-logs/");
 
-            socket.onopen = function () {
-                console.log("WebSocket connected!");
+            eventSource.onopen = function () {
+                console.log("SSE connection established.");
             };
 
-            socket.onmessage = function (event) {
+            eventSource.onmessage = function (event) {
                 const data = JSON.parse(event.data);
                 if (data.log) appendLog(data.log); // Append new log entry
             };
 
-            socket.onerror = function (error) {
-                console.error("WebSocket Error: ", error);
-            };
-
-            socket.onclose = function () {
-                console.warn("WebSocket Disconnected.");
+            eventSource.onerror = function (error) {
+                console.error("EventSource failed:", error);
+                eventSource.close(); // Close the connection on error
             };
         });
     </script>
